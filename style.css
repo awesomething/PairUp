@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker');
+
+body {
+  margin: 0;
+  background-color: #eee;
+}
+
+
+
+
+
+
+main > h2 {
+  color: #668284;
+}
